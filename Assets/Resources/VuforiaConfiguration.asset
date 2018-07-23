@@ -44,15 +44,9 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
-    - VuforiaMars_Images
-    - VuforiaMars_VuMark
-    - VuforiaMars_ModelTarget
-    - VuforiaMars_Object_OT
+    - object_OT
     dataSetsToActivate:
-    - VuforiaMars_Images
-    - VuforiaMars_VuMark
-    - VuforiaMars_ModelTarget
-    - VuforiaMars_Object_OT
+    - object_OT
   videoBackground:
     clippingMode: 0
     numDivisions: 2
@@ -73,6 +67,6 @@ MonoBehaviour:
     autoStartTracker: 0
   webcam:
     deviceNameSetInEditor: 
-    flipHorizontally: 0
+    flipHorizontally: 1
     turnOffWebCam: 0
     renderTextureLayer: 30
