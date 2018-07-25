@@ -8,19 +8,24 @@ ModelImporter:
     100000: Cube
     100002: test
     100004: //RootNode
+    100006: pignone
     400000: Cube
     400002: test
     400004: //RootNode
+    400006: pignone
     2100000: unnamed
     2100002: Material
     2300000: Cube
     2300002: test
     2300004: //RootNode
+    2300006: pignone
     3300000: Cube
     3300002: test
     3300004: //RootNode
+    3300006: pignone
     4300000: test
     4300002: Cube
+    4300004: pignone
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
@@ -75,7 +80,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 1
