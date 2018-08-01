@@ -1633,7 +1633,7 @@ RectTransform:
   m_GameObject: {fileID: 1370459586}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.0025000002, y: 0.0025000002, z: 0.0025000002}
+  m_LocalScale: {x: 0.004, y: 0.004, z: 0.004}
   m_Children:
   - {fileID: 1570128889}
   - {fileID: 1394990551}
@@ -1644,7 +1644,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0.39559937, y: 0.28720093}
-  m_SizeDelta: {x: 148.46, y: 70.8}
+  m_SizeDelta: {x: 186.0061, y: 70.8}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1370459588
 MonoBehaviour:
@@ -2052,7 +2052,7 @@ RectTransform:
   m_GameObject: {fileID: 1671452826}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.11199999}
-  m_LocalScale: {x: 0.0025, y: 0.0025, z: 0.0025}
+  m_LocalScale: {x: 0.004, y: 0.004, z: 0.004}
   m_Children:
   - {fileID: 872945651}
   - {fileID: 1685583343}
@@ -2593,13 +2593,13 @@ MonoBehaviour:
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/object_OT.xml
-  mExtendedTracking: 1
+  mExtendedTracking: 0
   mAspectRatioXY: 1
   mAspectRatioXZ: 1
   mShowBoundingBox: 0
   mBBoxMin: {x: 0, y: 0, z: 0}
   mBBoxMax: {x: 0.1, y: 0.1, z: 0.1}
-  mPreviewImage: {fileID: 2800000, guid: e82fef0464864ca1b11f057437960dbe, type: 3}
+  mPreviewImage: {fileID: 2800000, guid: 7091c10474324216b6f053f2b15f578c, type: 3}
   mLength: 1
   mWidth: 1
   mHeight: 1
